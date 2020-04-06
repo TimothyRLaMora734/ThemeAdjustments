@@ -1,5 +1,5 @@
 # ThemeAdjustments
- This is for primarily theming macOS Catalina but could aply to macOS Mojave too
+ This is for primarily theming macOS Catalina but could apply to macOS Mojave too
 
 Hello everyone,
 
